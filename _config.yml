@@ -1,4 +1,6 @@
-theme: minima
+theme: jekyll-theme-cayman
 title: DevMagnet - Your blog for news, tutorials and tips & tricks!
 description: This is where I share cool stuff about tech, IT and programming
 author: Mihaifv1
+highlighter: rouge
+
