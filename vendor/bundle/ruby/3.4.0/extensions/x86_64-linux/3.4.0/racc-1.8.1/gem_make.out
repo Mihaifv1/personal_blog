@@ -1,0 +1,18 @@
+current directory: /home/mihaifv/Documents/personal_blog/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+/usr/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/mihaifv/Documents/personal_blog/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250529-12012-mirtyx sitelibdir\=./.gem.20250529-12012-mirtyx clean
+
+current directory: /home/mihaifv/Documents/personal_blog/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250529-12012-mirtyx sitelibdir\=./.gem.20250529-12012-mirtyx
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/mihaifv/Documents/personal_blog/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250529-12012-mirtyx sitelibdir\=./.gem.20250529-12012-mirtyx install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20250529-12012-mirtyx/racc
+
+current directory: /home/mihaifv/Documents/personal_blog/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250529-12012-mirtyx sitelibdir\=./.gem.20250529-12012-mirtyx clean
