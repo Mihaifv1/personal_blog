@@ -1,3 +1,3 @@
 ---
-title: Blogul meu
+title: DevMagnet
 ---
