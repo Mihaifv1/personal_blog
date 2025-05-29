@@ -16,7 +16,7 @@ Whether you're a beginner or an experienced developer, you'll find something use
 
 ## Stay Connected
 
-- **Blog**: [Visit DevMagnet](#) *(link coming soon)*
+- **Blog**: [Visit DevMagnet](www.devmagnet.xyz) *(link coming soon)*
 - **Contact**: Feel free to open an issue or reach out if you have suggestions or questions!
 
 ---
